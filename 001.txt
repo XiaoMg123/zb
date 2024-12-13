@@ -1,0 +1,20 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "饭太硬",
+      "sourceUrl": "http://www.饭太硬.com/tv/"
+    },
+    {
+      "sourceName": "王二小",
+      "sourceUrl": "http://tvbox.王二小放牛娃.top/"
+    },
+    {
+      "sourceName": "摸鱼",
+      "sourceUrl": "http://我不是.摸鱼儿.com"
+    },
+    {
+      "sourceName": "肥猫",
+      "sourceUrl": "http://肥猫.live"
+    }
+  ]
+}
